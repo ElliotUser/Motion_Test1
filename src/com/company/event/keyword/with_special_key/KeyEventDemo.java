@@ -1,4 +1,4 @@
-package com.company.keyword.with_special_key;
+package com.company.event.keyword.with_special_key;
 
 import java.awt.Frame;
 import java.awt.Graphics;

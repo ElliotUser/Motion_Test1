@@ -1,4 +1,4 @@
-package com.company.inner;
+package com.company.event.inner;
 
 import java.awt.Dimension;
 import java.awt.Frame;

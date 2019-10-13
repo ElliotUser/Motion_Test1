@@ -1,4 +1,4 @@
-package com.company.anonymous;
+package com.company.event.anonymous;
 
 import java.awt.Frame;
 import java.awt.Graphics;

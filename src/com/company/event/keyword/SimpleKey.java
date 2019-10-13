@@ -1,4 +1,4 @@
-package com.company.keyword;
+package com.company.event.keyword;
 
 import java.awt.Dimension;
 import java.awt.Frame;

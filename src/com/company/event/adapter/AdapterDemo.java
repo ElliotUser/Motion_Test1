@@ -1,4 +1,4 @@
-package com.company.adapter;
+package com.company.event.adapter;
 
 import java.awt.Frame;
 import java.awt.Graphics;

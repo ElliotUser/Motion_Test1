@@ -1,4 +1,4 @@
-package com.company.mouse;
+package com.company.event.mouse;
 
 import java.awt.Dimension;
 import java.awt.Frame;
